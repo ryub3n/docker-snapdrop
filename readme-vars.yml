@@ -67,5 +67,6 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "14.10.21:", desc: "Use standard nginx.conf from lsio alpine nginx base image." }
   - { date: "09.08.21:", desc: "Rebase to Alpine 3.14. Add real_ip block to nginx default site config." }
   - { date: "15.09.20:", desc: "Initial Release." }
