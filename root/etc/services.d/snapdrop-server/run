@@ -3,4 +3,4 @@
 cd /app/snapdrop/server || exit
 
 exec \
-	s6-setuidgid abc /usr/bin/node index.js
+    s6-setuidgid abc /usr/bin/node index.js
