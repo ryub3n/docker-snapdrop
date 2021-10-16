@@ -63,7 +63,7 @@ app_setup_block_enabled: true
 app_setup_block: |
   Webui is accessible at http://SERVERIP:PORT
 
-  If you intend to expose Snapdrop to the internet, edit /config/nginx/site-confs/default and uncomment the real_ip settings
+  If you intend to expose Snapdrop to the internet, edit /config/nginx/site-confs/default.conf and uncomment the real_ip settings
 
 # changelog
 changelogs:
