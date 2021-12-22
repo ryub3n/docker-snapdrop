@@ -226,6 +226,6 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
-* **27.11.21:** - Rebasing to alpine 3.15 with php8. Restructure nginx configs ([see changes in base](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/84)).
+* **22.12.21:** - Rebasing to alpine 3.15 with php8. Restructure nginx configs ([see changes in base](https://github.com/linuxserver/docker-baseimage-alpine-nginx/pull/84)).
 * **09.08.21:** - Rebase to Alpine 3.14. Add real_ip block to nginx default site config.
 * **15.09.20:** - Initial Release.
